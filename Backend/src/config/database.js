@@ -4,7 +4,7 @@ import mysql from 'mysql';
 const db = mysql.createPool({
     host: "viaduct.proxy.rlwy.net",
     user: "root",
-    password: "SEGREDO... xP",
+    password: "UZxsDgnVnnOyfLnPWMEHbuTnRHECdIqA",
     database: "railway"
 });
 
